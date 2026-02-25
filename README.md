@@ -46,12 +46,6 @@ Currently, I serve as a **Board Member** at the **Teknofest Haliç** community.
 
 ---
 
-### 📈 GitHub Stats
-
-![Ayberk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayberkbaturalp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkbaturalp&layout=compact&theme=radical)
-
----
 
 ### 🔗 Connect with Me
 
